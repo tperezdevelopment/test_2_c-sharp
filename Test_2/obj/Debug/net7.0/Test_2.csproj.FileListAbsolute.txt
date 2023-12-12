@@ -1,0 +1,14 @@
+D:\HUMBER COLLEGE\GITHUB\test_2_c-sharp\Test_2\bin\Debug\net7.0\Test_2.exe
+D:\HUMBER COLLEGE\GITHUB\test_2_c-sharp\Test_2\bin\Debug\net7.0\Test_2.deps.json
+D:\HUMBER COLLEGE\GITHUB\test_2_c-sharp\Test_2\bin\Debug\net7.0\Test_2.runtimeconfig.json
+D:\HUMBER COLLEGE\GITHUB\test_2_c-sharp\Test_2\bin\Debug\net7.0\Test_2.dll
+D:\HUMBER COLLEGE\GITHUB\test_2_c-sharp\Test_2\bin\Debug\net7.0\Test_2.pdb
+D:\HUMBER COLLEGE\GITHUB\test_2_c-sharp\Test_2\obj\Debug\net7.0\Test_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUMBER COLLEGE\GITHUB\test_2_c-sharp\Test_2\obj\Debug\net7.0\Test_2.AssemblyInfoInputs.cache
+D:\HUMBER COLLEGE\GITHUB\test_2_c-sharp\Test_2\obj\Debug\net7.0\Test_2.AssemblyInfo.cs
+D:\HUMBER COLLEGE\GITHUB\test_2_c-sharp\Test_2\obj\Debug\net7.0\Test_2.csproj.CoreCompileInputs.cache
+D:\HUMBER COLLEGE\GITHUB\test_2_c-sharp\Test_2\obj\Debug\net7.0\Test_2.dll
+D:\HUMBER COLLEGE\GITHUB\test_2_c-sharp\Test_2\obj\Debug\net7.0\refint\Test_2.dll
+D:\HUMBER COLLEGE\GITHUB\test_2_c-sharp\Test_2\obj\Debug\net7.0\Test_2.pdb
+D:\HUMBER COLLEGE\GITHUB\test_2_c-sharp\Test_2\obj\Debug\net7.0\Test_2.genruntimeconfig.cache
+D:\HUMBER COLLEGE\GITHUB\test_2_c-sharp\Test_2\obj\Debug\net7.0\ref\Test_2.dll

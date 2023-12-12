@@ -27,7 +27,7 @@ public class MyManagerEvent
 {
     public void ManagerEvent(object sender, MyEventArguments e)
     {
-        Console.WriteLine($"The Manager event speaking {e.Message}");
+        Console.WriteLine($"The Manager event speaking: {e.Message}");
     }
 }
 

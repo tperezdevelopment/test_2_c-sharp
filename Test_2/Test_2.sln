@@ -5,6 +5,12 @@ VisualStudioVersion = 17.7.34302.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_2", "Test_2.csproj", "{B616A79D-5482-476D-B02B-B7BD57531AD8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2C87AF71-F193-4A70-BBB5-241E71B2D769}"
+	ProjectSection(SolutionItems) = preProject
+		EventClass.cs = EventClass.cs
+		GenericClass.cs = GenericClass.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
