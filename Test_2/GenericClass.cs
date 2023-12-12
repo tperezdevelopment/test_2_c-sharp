@@ -19,7 +19,7 @@ public class ClassGeneric<T> where T : struct
         {
             return list[index];
         }
-        catch
+        catch(IndexOutOfRangeException ex)
         {
             throw new IndexOutOfRangeException($"Index {index} out of range");
         }
